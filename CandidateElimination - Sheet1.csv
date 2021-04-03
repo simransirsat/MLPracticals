@@ -1,0 +1,7 @@
+Big,Red,Circle,Yes,Square,No
+Small,Red,Triangle,Yes,Round,No
+Small,Blue,Circle,Yes,Round,Yes
+Small,Red,Circle,No,Round,Yes
+Big,Green,Circle,Yes,Round,No
+Small,Green,Circle,Yes,Square,Yes
+Big,Blue,Triangle,Yes,Square,No
